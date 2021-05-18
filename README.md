@@ -3,14 +3,9 @@
 </p>
 
 <p align="center"> This project is the backend for the VirtualWhiteBoard assignment </p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+<p align="center"> This project is built with the backend framework NestJS, that provides a RESTfull API, to create user, and create tasks for each user. The database is built with MongoDB and Mognoose as ODM framework to map object into database documents. The database is hosted on Atlas Cloud service the `.env` file is attached in the mail i sent for the project, I would have deployed the backend as well if I had more time </p>
 
-## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-## Installation
 
 ```bash
 $ npm install
